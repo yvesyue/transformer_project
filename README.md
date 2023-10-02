@@ -1,4 +1,3 @@
-# transformer_project
 # Project Overview
 
 ## Objective
